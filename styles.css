@@ -1,18 +1,27 @@
+h1{
+  text-align:center;
+  border-style:solid;
+  border-color: #f4c2c2;
+   } 
+h2{
+    text-align: left;
+}
 div {
-  background-color:#1C96FA ;
-  width: 500px;
-  border: 10px solid #FF1ACB ;
-  padding: 40px;
+  background-color:#d4f1f9 ;
+  border: 5px solid #c6e2ff ;
+  padding: 10px;
   margin: 10px;
   text-align:center;
-  display: flex;
-  justify-content: space-around; 
-  color: white;
+  color:black;
 }
 
- <div> 
-        <div ID="#cbcef9">
-        <div ID="#c6e2ff">
-        <div ID="#eed7da">
-            </div>
+p{
+    color: black;
+    text-align: left;
+}
 
+body{
+    background-image: url("https://i.pinimg.com/originals/0b/00/f0/0b00f03f04399c7753e720efbc86987d.jpg");
+    background-repeat: no-repeat;
+    background-size: 2000px;
+}
